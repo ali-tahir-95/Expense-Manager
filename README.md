@@ -1,4 +1,4 @@
-# test_app
+# Expense Manager
 
 A new Flutter project.
 
